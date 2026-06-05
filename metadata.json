@@ -1,0 +1,6 @@
+{
+  "name": "3D Hourglass Simulation",
+  "description": "A highly realistic 3D hourglass physics simulation with detailed glass materials, sand physics, drag-to-flip controls, and gravity sensing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

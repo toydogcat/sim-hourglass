@@ -1,2 +1,3 @@
 # sim-hourglass
-Hourglass.
+
+[Hourglass](https://toydogcat.github.io/sim-hourglass/).
